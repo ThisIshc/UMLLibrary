@@ -3,6 +3,10 @@
   dslVersion="1.0.0.0"
   Id="2315a03e-5d59-4982-8834-e5ba87683390"
   name="ModelingProject1" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <ownedCommentsInternal>
+    <comment
+      Id="164257a0-3f7c-41a0-a6b8-f322fbc29142" />
+  </ownedCommentsInternal>
   <profileInstances>
     <packageHasProfileInstances
       Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b">
@@ -22,6 +26,20 @@
       <actor
         Id="e1470636-db06-4b25-b00f-4dd1080fc35e"
         name="Actor1"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="78605d53-7a79-4302-8582-4bd2c1e3c083"
+        name="UseCase1"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <actor
+        Id="67c244d5-f7c0-4ea0-b6e3-e1b524b66e6f"
+        name="Actor2"
         isAbstract="false"
         isLeaf="false" />
     </packageHasNamedElement>

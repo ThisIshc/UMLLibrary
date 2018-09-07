@@ -2,8 +2,20 @@
 <useCaseDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="UMLUseCaseDiagram1">
   <useCaseModelRootMoniker Id="1fd91018-be45-400a-9c9f-c98c9c4fcf5e" />
   <nestedChildShapes>
-    <actorShape Id="ffb423fe-3bce-4809-bd43-d9af40674b5f" absoluteBounds="0.875, 2.125, 0.5, 0.5" isReference="false" heightOffset="0">
+    <actorShape Id="ffb423fe-3bce-4809-bd43-d9af40674b5f" absoluteBounds="1, 2.5, 0.5, 0.5" isReference="false" heightOffset="0">
       <actorMoniker Id="4ec5afdf-0764-41bb-bb55-81ec3dfcdda8" LastKnownName="Actor1" />
+      <relativeChildShapes />
+    </actorShape>
+    <useCaseShape Id="157c4c8c-89b4-4af6-bfd2-3b5f9d09e3d8" absoluteBounds="2.5, 1.25, 1, 0.5" customColor="238, 237, 131" heightOffset="0">
+      <useCaseMoniker Id="30914421-8e60-417e-9e75-a6e0daa267f9" LastKnownName="UseCase1" />
+      <relativeChildShapes />
+    </useCaseShape>
+    <commentShape Id="00736b42-bcbd-46d7-a090-b5b709f190f5" absoluteBounds="4.125, 2.75, 1.25, 0.375" customColor="251, 247, 200">
+      <commentMoniker Id="50aa6a78-980b-4ed1-b5ec-1bfbaa29ac0f" />
+      <relativeChildShapes />
+    </commentShape>
+    <actorShape Id="c1189ead-7516-47c5-951d-0a59451364ee" absoluteBounds="7.625, 2.25, 0.5, 0.5" isReference="false" heightOffset="0">
+      <actorMoniker Id="784707a6-5011-4721-99ce-a835b324f449" LastKnownName="Actor2" />
       <relativeChildShapes />
     </actorShape>
   </nestedChildShapes>

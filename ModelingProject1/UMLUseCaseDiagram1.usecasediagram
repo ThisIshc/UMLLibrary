@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <useCaseModelRoot xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm5="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/LogicalClassDesigner" xmlns:dm10="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="1fd91018-be45-400a-9c9f-c98c9c4fcf5e" name="UMLUseCaseDiagram1" linkedPackageId="c83f8c9b-04e9-44d0-ad16-1479b7d129de" xmlns="http://schemas.microsoft.com/dsltools/UseCaseModel">
+  <ownedCommentsInternal>
+    <comment Id="50aa6a78-980b-4ed1-b5ec-1bfbaa29ac0f">
+      <elementDefinition Id="164257a0-3f7c-41a0-a6b8-f322fbc29142" />
+    </comment>
+  </ownedCommentsInternal>
   <profileInstances>
     <packageHasProfileInstances Id="adee05aa-f6d1-465a-b125-13572d0fb275">
       <profileInstance Id="8a65f1a8-41fb-4cd4-8c34-53b2963be1be" name="StandardProfileL2">
@@ -18,6 +23,16 @@
     <useCaseModelRootHasTypes>
       <actor Id="4ec5afdf-0764-41bb-bb55-81ec3dfcdda8" name="Actor1" isAbstract="false" isLeaf="false">
         <elementDefinition Id="e1470636-db06-4b25-b00f-4dd1080fc35e" />
+      </actor>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="30914421-8e60-417e-9e75-a6e0daa267f9" name="UseCase1" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="78605d53-7a79-4302-8582-4bd2c1e3c083" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <actor Id="784707a6-5011-4721-99ce-a835b324f449" name="Actor2" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="67c244d5-f7c0-4ea0-b6e3-e1b524b66e6f" />
       </actor>
     </useCaseModelRootHasTypes>
   </packagedElements>
